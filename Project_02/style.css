@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.boxes{
+    height: 100px;
+    width: 100px;
+    border: 2px solid aliceblue;
+    margin-top: 300px;
+}
+
+.box{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.boxes1{
+    background-color: blue;
+}
+.boxes2{
+    background-color: violet;
+}
+.boxes3{
+    background-color: green;
+}
